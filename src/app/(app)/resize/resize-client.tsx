@@ -830,25 +830,6 @@ const ResizeClient = () => {
           </div>
         )}
       </div>
-
-      <div className="bg-neutral-50 border-t border-neutral-200 mt-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="md:flex md:items-center md:justify-between">
-            <div>
-              <h2 className="text-xl font-bold text-neutral-900">ImageResizer</h2>
-              <p className="mt-2 text-neutral-600">
-                A free, open-source tool to resize images directly in your browser.
-              </p>
-            </div>
-            <div className="mt-6 md:mt-0 flex items-center">
-              <FiInfo className="h-5 w-5 text-neutral-400" />
-              <p className="ml-2 text-sm text-neutral-600">
-                Your images are processed locally and never uploaded to any server.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   );
 };
