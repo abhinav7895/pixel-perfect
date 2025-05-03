@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     siteName: 'PixelPerfect',
     images: [
       {
-        url: '/og.webp',
+        url: '/og.png',
         width: 1200,
         height: 630,
         alt: 'PixelPerfect - Browser-based image editing tools',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'PixelPerfect | Free Browser-Based Image Editing Tools',
     description: 'Transform your images instantly with our free, private, browser-based image editing tools. No uploads, no data collection, works offline.',
-    images: ['/og.webp'],
+    images: ['/og.png'],
     creator: '@pixelperfect',
     site: '@pixelperfect',
   },
