@@ -74,13 +74,13 @@ const AboutPage = () => {
               
               <div className="flex flex-wrap justify-center sm:justify-start gap-3">
                 <a 
-                  href="https://x.com/abhinavay" 
+                  href="https://x.com/abhinavvay" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center px-3 py-1 bg-neutral-100 text-neutral-700 rounded hover:bg-neutral-200 transition-colors text-sm"
                 >
                   <RiTwitterXFill className="h-4 w-4 mr-2" />
-                  <span>@abhinavay</span>
+                  <span>@abhinavvay</span>
                 </a>
                 <a 
                   href="https://abhinavyadav.in" 
@@ -92,7 +92,7 @@ const AboutPage = () => {
                   <span>abhinavyadav.in</span>
                 </a>
                 <a 
-                  href="https://github.com/abhinavyadav/pixelperfect" 
+                  href="https://github.com/abhinav7895/pixel-perfect" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center px-3 py-1 bg-neutral-100 text-neutral-700 rounded hover:bg-neutral-200 transition-colors text-sm"
@@ -112,7 +112,7 @@ const AboutPage = () => {
           </p>
           <div className="flex justify-center sm:justify-start">
             <a 
-              href="https://github.com/abhinavyadav/pixelperfect" 
+              href="https://github.com/abhinav7895/pixel-perfect" 
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-4 py-2 bg-neutral-800 text-white rounded hover:bg-neutral-700 transition-colors"

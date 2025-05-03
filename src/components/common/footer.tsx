@@ -13,14 +13,14 @@ export const Footer = () => {
           
           <div className="flex flex-col md:flex-row items-center space-y-3 md:space-y-0 md:space-x-6">
             <a 
-              href="#" 
+              href="https://github.com/abhinav7895/pixel-perfect" 
               className="text-neutral-300 hover:text-white flex items-center"
             >
               <span>Open Source</span>
             </a>
             
             <a 
-              href="https://github.com/abhinavdev24" 
+              href="https://github.com/abhinav7895/pixel-perfect" 
               className="text-neutral-300 hover:text-white flex items-center"
               target="_blank"
               rel="noopener noreferrer"
